@@ -64,6 +64,12 @@ pip install mediapipe opencv-python scikit-learn pandas numpy joblib pygame
 5. **Robot Simulation**  
    Run `gesture_simulation_gui.py` to control a green robot in a Pygame window using your gestures.
 
+
+
+
+
+updated using git
+
 ---
 
 ## 🕹️ Default Gestures
